@@ -4,7 +4,10 @@
 ![GitHub Issues or Pull Requests](https://img.shields.io/github/issues/EdEdmund1/sturdy-eurekaPLACEHOLDER)
 ![Code Climate coverage](https://img.shields.io/codeclimate/coverage/EdEdmund1/sturdy-eurekaPLACEHOLDER)
 
-### Note Template
+### Templates
+
+> [!TIP]
+> A
 
 > [!NOTE]
 > A
